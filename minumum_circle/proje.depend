@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605201163 source:c:\users\petkd\onedrive\masaüstü\pro lab\proje\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+
